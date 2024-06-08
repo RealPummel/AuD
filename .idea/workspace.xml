@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e52ba991-7ae6-4ce7-9bff-5f1c530a9e15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Batik.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/AbstractStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/TailRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/JosephusProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/josephus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung1/polnischeNotation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung2/IntSList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung2/LinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung2/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung2/TPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung3/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung3/MyDList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList$Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung3/helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung4/BuildBinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung4/ForwardList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung4/RecursionToStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung4/what_rec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung5/BCNF.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung5/ExampleExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung5/IntBinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung5/MyBinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung6/Differentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung6/ExprWithPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung6/SimpleTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung7/A234Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung7/A234Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung7/AVLExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung7/AVLTree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung7/RedBlackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung7/RedBlackExample.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung7/RedBlackTree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung8/B08-1_BTree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung8/B08-2_Heap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung8/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung8/MyBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung9/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung9/HashLinQuad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung9/IceBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung9/MyHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung9/random_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung9/ww1.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RealPummel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RealPummel/AuD.git&quot;,
+    &quot;accountId&quot;: &quot;41bb9b53-f4c0-430a-929c-d860a0f2077e&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2exMKtvNRUILaIPK854U3S5lARA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.A234Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AVLExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuildBinTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Differentiation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DotViewer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExampleExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExprWithPow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExpressionParser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExpressionParser2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Food.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForwardList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FowardList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashLinQuad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IceBox.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntBinTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntSList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JosephusProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxHeap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyBTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyBinTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyDList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyHash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MySList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecursionToStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RedBlackExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleStepper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleStepperDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lukasnowicki/IdeaProjects/AuD/AuDuebung/src/uebung9&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="uebung2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/uebung9" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/uebung9" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/uebung1/josephus" />
+      <recent name="$PROJECT_DIR$/src/josephus" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e52ba991-7ae6-4ce7-9bff-5f1c530a9e15" name="Changes" comment="" />
+      <created>1712841715051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712841715051</updated>
+      <workItem from="1712841716084" duration="8983000" />
+      <workItem from="1713263101296" duration="8293000" />
+      <workItem from="1713349912441" duration="8000" />
+      <workItem from="1713349933008" duration="908000" />
+      <workItem from="1713363795992" duration="14659000" />
+      <workItem from="1713443324018" duration="6405000" />
+      <workItem from="1713467016998" duration="4000000" />
+      <workItem from="1713530167820" duration="4251000" />
+      <workItem from="1713609743797" duration="1721000" />
+      <workItem from="1713876650419" duration="303000" />
+      <workItem from="1713876956759" duration="81000" />
+      <workItem from="1713877044317" duration="190000" />
+      <workItem from="1713878381454" duration="4221000" />
+      <workItem from="1713965132659" duration="7495000" />
+      <workItem from="1714034307744" duration="8840000" />
+      <workItem from="1714219380138" duration="53000" />
+      <workItem from="1714330834740" duration="189000" />
+      <workItem from="1714475378280" duration="257000" />
+      <workItem from="1714484615741" duration="2617000" />
+      <workItem from="1714515915013" duration="5545000" />
+      <workItem from="1714650044432" duration="10668000" />
+      <workItem from="1714665915170" duration="1396000" />
+      <workItem from="1714995417683" duration="7968000" />
+      <workItem from="1715005609139" duration="6735000" />
+      <workItem from="1715083414552" duration="1526000" />
+      <workItem from="1715546873807" duration="1909000" />
+      <workItem from="1715606098735" duration="2000" />
+      <workItem from="1715610851658" duration="10000" />
+      <workItem from="1715610864488" duration="356000" />
+      <workItem from="1715692841569" duration="1729000" />
+      <workItem from="1715694658572" duration="7441000" />
+      <workItem from="1715763585948" duration="1437000" />
+      <workItem from="1715775819207" duration="3980000" />
+      <workItem from="1715860887202" duration="8366000" />
+      <workItem from="1716204930548" duration="5002000" />
+      <workItem from="1716210277228" duration="7484000" />
+      <workItem from="1716218310632" duration="17000" />
+      <workItem from="1716810433357" duration="1421000" />
+      <workItem from="1716894801191" duration="2715000" />
+      <workItem from="1716925551083" duration="1000" />
+      <workItem from="1716925557050" duration="10831000" />
+      <workItem from="1717510257623" duration="4513000" />
+      <workItem from="1717595372769" duration="13585000" />
+      <workItem from="1717676210885" duration="4108000" />
+      <workItem from="1717697672572" duration="3466000" />
+      <workItem from="1717769144617" duration="864000" />
+      <workItem from="1717881099719" duration="265000" />
+      <workItem from="1717881972225" duration="7000" />
+      <workItem from="1717882044812" duration="13000" />
+      <workItem from="1717882097098" duration="10000" />
+      <workItem from="1717882135468" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

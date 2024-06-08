@@ -1,0 +1,1 @@
+Quersumme der Zahl n
