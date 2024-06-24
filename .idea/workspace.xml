@@ -5,68 +5,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e52ba991-7ae6-4ce7-9bff-5f1c530a9e15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Batik.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/AbstractStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/TailRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/AbstractQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/JosephusProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/josephus/josephus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung1/polnischeNotation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung2/IntSList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung2/LinkedNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung2/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung2/TPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung3/MyCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung3/MyDList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList$Iterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung3/MySList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung3/helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung4/BuildBinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung4/ForwardList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung4/RecursionToStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung4/what_rec.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung5/BCNF.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung5/ExampleExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung5/IntBinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung5/MyBinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung6/Differentiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung6/ExprWithPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung6/SimpleTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung7/A234Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung7/A234Tree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung7/AVLExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung7/AVLTree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung7/RedBlackExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung7/RedBlackExample.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung7/RedBlackTree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung8/B08-1_BTree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung8/B08-2_Heap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung8/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung8/MyBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung9/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung9/HashLinQuad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung9/IceBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung9/MyHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung9/random_words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uebung9/ww1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/adt/AbstractPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/dp/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/dp/SeamCarvingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/dp/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/AStarShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/DijkstraShortestPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/GraphP88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/GraphParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/IterativeDFS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/IterativeDFS2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/MaxFlowExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/MyDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/MyEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/MyGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/PrimMinimumSpanningTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/PriorityFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/RetroMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/Tokenizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/TraversalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/a10.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/a12.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/another.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/flow1.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/flow2.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/flow3.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/flow4.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/flow5.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/grid.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/mesh.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/p452.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/smallermesh.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/graph/smallmesh.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/aud.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/grid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/grid1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/maze1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/maze2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/plane.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/plane1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/plane2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/plane_w_tunnel.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/grid/we_have_a_problem_here.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/hash/CollisionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/hash/HashFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/hash/HashtableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/hash/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/hash/SimpleHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/example/hash/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/AbstractEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/AbstractGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/AbstractNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/AdjacencyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/GraphAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/SimpleEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/SimpleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/matrix/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/matrix/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/matrix/SparseMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/matrix/SparseMatrixCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/matrix/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/graph/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/test/AdjacencyMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/test/GraphTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/test/SparseMatrixCSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/test/SparseMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/util/GraphDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aud/util/Terminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung10/AdjMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung10/B10-1_graphs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung10/B10-3_graphsearch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung11/B11-1_topology.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung11/B11-2_dijkstra.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung11/B12-0_mst.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung11/MSTPrimDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uebung9/Hash.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aud/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/src/aud/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aud/Makefile.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/aud/Makefile.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aud/example/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/src/aud/example/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aud/test/RunTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aud/test/RunTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aud/util/DotViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aud/util/DotViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aud/util/SingleStepper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aud/util/SingleStepper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uebung9/MyHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uebung9/MyHash.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +152,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.A234Example.executor&quot;: &quot;Run&quot;,
     &quot;Application.AVLExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdjMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.BuildBinTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.Differentiation.executor&quot;: &quot;Run&quot;,
     &quot;Application.DotViewer.executor&quot;: &quot;Run&quot;,
@@ -128,18 +163,21 @@
     &quot;Application.Food.executor&quot;: &quot;Run&quot;,
     &quot;Application.ForwardList.executor&quot;: &quot;Run&quot;,
     &quot;Application.FowardList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphCreationDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphSearchDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashLinQuad.executor&quot;: &quot;Run&quot;,
     &quot;Application.IceBox.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntBinTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntSList.executor&quot;: &quot;Run&quot;,
     &quot;Application.JosephusProblem.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MSTPrimDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxHeap.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyBTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyBinTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyCircle.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyDList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyHash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyHash.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MySList.executor&quot;: &quot;Run&quot;,
     &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.RecursionToStack.executor&quot;: &quot;Run&quot;,
@@ -251,6 +289,15 @@
       <workItem from="1717882044812" duration="13000" />
       <workItem from="1717882097098" duration="10000" />
       <workItem from="1717882135468" duration="25000" />
+      <workItem from="1718048456213" duration="5604000" />
+      <workItem from="1718102463435" duration="2126000" />
+      <workItem from="1718105186396" duration="5616000" />
+      <workItem from="1718149402885" duration="857000" />
+      <workItem from="1718274813463" duration="1506000" />
+      <workItem from="1718610294745" duration="175000" />
+      <workItem from="1718797110859" duration="2952000" />
+      <workItem from="1718874813842" duration="4413000" />
+      <workItem from="1719258363927" duration="1000" />
     </task>
     <servers />
   </component>

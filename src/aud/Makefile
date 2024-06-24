@@ -1,3 +1,3 @@
 include Makefile.in
 
-SUBDIRS = adt util example test
+SUBDIRS = adt graph util example test

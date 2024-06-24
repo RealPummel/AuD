@@ -4,6 +4,8 @@ import java.io.DataInput;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.math.BigInteger;
+import java.util.Random;
 
 //---------------------------------------------------------------//
 public class MyHash {
@@ -43,7 +45,7 @@ public class MyHash {
 
         int i = 1;
         while (!e_.insert(index, s)) {
-            index = Math.abs((index + i * secondaryHash) % size_);
+            index = Math.abs(index + i * secondaryHash) % size_;
             i++;
         }
     }
@@ -54,7 +56,7 @@ public class MyHash {
         int size = 1249;  // only an example (backend test)
         MyHash hash = new MyHash(size);
         try {
-            DataInput s = new DataInputStream(new FileInputStream("/Users/lukasnowicki/IdeaProjects/AuD/AuDuebung/src/uebung9/random_words.txt"));
+            DataInput s = new DataInputStream(new FileInputStream("/Users/lukasnowicki/IdeaProjects/AuD/src/uebung9/ww1.txt"));
             // use correct Path
             String line;
             while ((line = s.readLine()) != null) {

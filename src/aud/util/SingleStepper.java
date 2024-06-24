@@ -35,11 +35,11 @@ import javax.swing.event.ChangeListener;
     </table>
 
     {@link DotViewer} can be used to visualize the state of an
-    algorithm that is run with {@code
-    SingleStepper}. <code>GraphDemo</code> shows an example.
+    algorithm that is run with {@code SingleStepper}. {@link
+    GraphDemo} shows an example.
 
     @see DotViewer
-    TODO: link <code>GraphDemo</code>
+    @see GraphDemo
  */
 public class SingleStepper {
 
