@@ -18,6 +18,6 @@ B.
 Bei Rock-Paper-Scissors-Lizard-Spock müsste man 3 Kanten entfernen, um
 eine topologische Sortierung zu erhalten. Es kommt sonst zu einem Zyklus.
 
-Die kannten die man entfernen Muss sind:
+Die kannten die man entfernen muss sind:
 - vom beliebigen Startknoten beide eingehenden Kanten
 - nach dem löschen des Startknotens außerdem bei der nächstmögliche Quelle eine eingehende Kante
